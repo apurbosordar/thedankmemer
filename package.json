@@ -1,0 +1,39 @@
+{
+    "name": "thedankmemer",
+    "version": "1.1.4",
+    "description": "A API wrapper for the Dank Memer API.",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "author": "INEX07",
+    "license": "MIT",
+    "dependencies": {
+        "snekfetch": "^4.0.4"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/INEX07/dankmemer.js.git"
+    },
+    "bugs": {
+        "url": "https://github.com/INEX07/dankmemer.js/issues"
+    },
+    "homepage": "https://github.com/INEX07/dankmemer.js#readme",
+    "keywords": [
+        "dankmemer",
+        "dankmemer-api",
+        "dankmemer.js",
+        "dankmemer-meme",
+        "memes",
+        "discord",
+        "discord.js-meme",
+        "meme-api",
+        "dank-memer-meme-server",
+        "dank-memer-meme",
+        "dank-memer",
+        "dank-memer-memes"
+    ],
+    "devDependencies": {
+        "eslint": "^6.8.0"
+    }
+}
