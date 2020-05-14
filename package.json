@@ -6,27 +6,27 @@
     "scripts": {
         "start": "node index.js"
     },
-    "author": "INEX07",
+    "author": "apurbosordar",
     "license": "MIT",
     "dependencies": {
         "snekfetch": "^4.0.4"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/INEX07/dankmemer.js.git"
+        "url": "git+https://github.com/apurbosordar/thedankmemer.git"
     },
     "bugs": {
-        "url": "https://github.com/INEX07/dankmemer.js/issues"
+        "url": "https://github.com/apurbosordar/thedankmemer/issues"
     },
-    "homepage": "https://github.com/INEX07/dankmemer.js#readme",
+    "homepage": "https://github.com/apurbosordar/thedankmemer#readme",
     "keywords": [
         "dankmemer",
         "dankmemer-api",
-        "dankmemer.js",
+        "dankmemer",
         "dankmemer-meme",
         "memes",
         "discord",
-        "discord.js-meme",
+        "discord-meme",
         "meme-api",
         "dank-memer-meme-server",
         "dank-memer-meme",

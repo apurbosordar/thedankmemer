@@ -178,4 +178,4 @@ When the global ratelimit is hit, the body will contain an additional JSON key "
 **[Click Here](https://dankmemer.services/documentation)**
 
 # My GitHub
-**[Click Here](https://github.com/apurbosordar)**
+**[Click Here](https://github.com/INEX07)**
